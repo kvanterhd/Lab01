@@ -1,0 +1,15 @@
+.disk{
+    list-style-type:disc;
+}
+hr{
+    color: dimgray;
+}
+table{
+    border: 1px solid black;
+
+
+}
+td{
+    border: 1px black;
+    border-style: double;
+}
